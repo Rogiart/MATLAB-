@@ -1,0 +1,1 @@
+view(trainedModel.ClassificationTree,"Mode","graph")
